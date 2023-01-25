@@ -51,6 +51,7 @@ const EmployerRegistration = () => {
       >
         <FaChevronLeft />
         <p>back</p>
+
       </div>
       <div className='flex justify-center items-center overflow-auto p-10'>
         <form
