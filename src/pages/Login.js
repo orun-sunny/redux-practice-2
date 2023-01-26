@@ -32,7 +32,7 @@ const Login = () => {
   };
   useEffect(() => {
     if(isError){
-      toast.error(error)
+      toast.error(error);
 
     }
   }, [isError,error]);
